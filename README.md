@@ -59,3 +59,6 @@ Fleet Inefficiencies: The Airbus A320 recorded the lowest flight hours and total
 4. Strategic Pricing & Promotions: Airlines should leverage pricing strategies that capitalize on premium-class demand, while also offering competitive pricing for Economy Class to maintain volume-based revenue.
 
 By implementing these strategies, airlines can enhance operational efficiency, maximize revenue, and meet evolving customer preferences.
+
+
+![Capture](https://github.com/user-attachments/assets/5fe50827-2adf-4e93-acd8-d9c33b5ae976)
