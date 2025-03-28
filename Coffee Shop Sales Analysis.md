@@ -65,3 +65,5 @@ Since clothing, organic chocolate, and house blends are underperforming, the bus
 * Discontinuing or repurposing non-profitable products to reduce costs.
   
 By implementing these recommendations, the coffee shop can enhance profitability, improve operational efficiency, and better meet customer preferences.
+#### DASHBOARD
+![Capture2](https://github.com/user-attachments/assets/d4335805-f1a8-40ad-8c87-3a0b15073993)
